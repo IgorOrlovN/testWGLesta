@@ -1,0 +1,3 @@
+﻿  two.cpp
+C:\Users\79522\Desktop\test from wargaming\zadanie2\two\two\two.cpp(45): warning C4715: Stack::pop: значение возвращается не при всех путях выполнения
+  two.vcxproj -> C:\Users\79522\Desktop\test from wargaming\zadanie2\two\Debug\two.exe
